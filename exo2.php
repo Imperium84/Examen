@@ -1,7 +1,7 @@
 <?php
 
 /* Classe permettant de gérer les tableaux
- * Contient un 
+ * Contient un constructeur
  * Contient un getter
  * Contient un setter
  * Contient une méthode renvoyant le nombre le plus petit présent dans le tableau
